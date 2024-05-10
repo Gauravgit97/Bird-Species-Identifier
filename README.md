@@ -1,6 +1,6 @@
 # Bird-Species-Identifier
 
-*Description:*
+**Description:**
 
 The Bird Species Identifier is a deep learning model capable of identifying 10 different bird species. Given an image, it predicts the bird species and provides basic information about the bird. The model is built using Python and the TensorFlow library, along with dependencies such as NumPy, Matplotlib, and Keras.
 
